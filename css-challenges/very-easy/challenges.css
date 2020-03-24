@@ -1,0 +1,28 @@
+.checkerboard{
+    border:25px black solid;
+    height: 800px;
+    width:800px;
+}
+
+.row{
+    display:flex;
+}
+
+.black{
+    background-color:black;
+    width: 100px;
+    height:100px;
+}
+
+.white{
+    background-color:white;
+    width: 100px;
+    height:100px;
+}
+
+.row2{
+    display: flex;
+
+    flex-direction:row-reverse;
+}
+

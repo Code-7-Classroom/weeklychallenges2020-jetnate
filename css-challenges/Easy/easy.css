@@ -1,0 +1,32 @@
+ .american-flag{
+       display: flex;
+       flex-wrap: wrap;
+       flex-direction: row;
+       height: 400px;
+       width: 800px;  
+       
+     }
+     .red{
+       height: 50px;
+       width: 1500px;
+       background: red;
+       display: block;
+       
+     }
+     .white{
+       height: 50px;
+       width: 1500px;
+       background: white;
+       display: block;
+     }
+   
+   
+       img{
+         height: 400px;
+         width: 500px;
+         position: absolute;
+         margin-top: 2px;
+         margin-left: 2px;
+     }
+   
+   

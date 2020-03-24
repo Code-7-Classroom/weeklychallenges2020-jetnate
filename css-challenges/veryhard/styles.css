@@ -1,0 +1,47 @@
+.header {
+  text-align: center;
+}
+
+.header-title {
+  background-color: orange;
+}
+
+.Main-Heading::before {
+  content: "";
+  display: block;
+  background: url("photos/herald.jpg") no-repeat center/cover;
+  height: 200px;
+  width: 1500px;
+}
+
+.newspaper-section {
+  width: 100%;
+}
+
+.newspaper-section img {
+  height: 300px;
+  width: 500px;
+  padding-left: 10px;
+}
+
+.container {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 10px;
+}
+
+.container--title {
+  text-align: center;
+  width: 100%;
+}
+
+.container--title-text {
+  padding: 10px;
+}
+
+body {
+  background-color: bisque;
+}
+/*# sourceMappingURL=styles.css.map */
