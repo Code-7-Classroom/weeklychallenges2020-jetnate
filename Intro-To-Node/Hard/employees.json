@@ -1,0 +1,66 @@
+{
+    "Employees":[
+        {
+            "name":"George Washington",
+            "id": 1,
+            "salary":100,
+            "Department":"Security"
+        },
+        {
+            "name":"John Adams",
+            "id": 2,
+            "salary":200,
+            "Department":"Human Resources"
+        },
+        {
+            "name":"Thomas Jefferson",
+            "id": 3,
+            "salary":300,
+            "Department":"Information Technology"
+        },
+        {
+            "name":"Andrew Jackson",
+            "id": 4,
+            "salary":400,
+            "Department":"Admin"
+        },
+        {
+            "name":"George Bush",
+            "id": 5,
+            "salary":500,
+            "Department":"Medical"
+        },
+        {
+            "name":"Barack Obama",
+            "id": 6,
+            "salary":600,
+            "Department":"Quality Assurance"
+        },
+        {
+            "name":"Bill Clinton",
+            "id": 7,
+            "salary":700,
+            "Department":"Recruiting"
+        },
+        {
+            "name":"John Tyler",
+            "id": 8,
+            "salary":800,
+            "Department":"Security"
+        },
+        {
+            "name":"Ronald Reagan",
+            "id": 9,
+            "salary":900,
+            "Department":"Human Resources"
+        },
+        {
+            "name":"Richard Nixon",
+            "id": 10,
+            "salary":1000,
+            "Department":"Accounting"
+        }
+    ]
+
+
+}
