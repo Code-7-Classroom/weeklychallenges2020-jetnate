@@ -27,7 +27,7 @@ app.get('/employees/:id', (req, res) =>
     res.send(sData)
 })
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 5000;
 app.listen(port, () => {
     console.log(`Server running on port ${port}`)
 })
