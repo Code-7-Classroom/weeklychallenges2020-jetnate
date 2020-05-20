@@ -28,8 +28,8 @@ class Medium extends React.Component{
      <p>{this.props.BasicInfo.dateofbirth}</p>
     </div>)
 
-    
-    )
+
+
   }
 }
 
